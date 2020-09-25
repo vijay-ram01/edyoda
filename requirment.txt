@@ -1,0 +1,3 @@
+I am a fullstack developer trainee
+Django
+python
